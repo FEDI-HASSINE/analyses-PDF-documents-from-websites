@@ -1,0 +1,9 @@
+crawled_files
+out
+list-sites.txt
+node-modules
+node_modules
+.DS_Store
+__pycache__
+scrapy.log
+.idea
